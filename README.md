@@ -1,2 +1,2 @@
-# sample-rep
+# sample-repo
 更新
